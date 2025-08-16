@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    
+}
+
+
+.part{
+    display: flex;
+    gap: 10px;
+    margin-right: 100px;
+    color: rgb(157, 156, 156);
+}
+
+.pic:hover{
+    color: white;
+    border-bottom: solid white 1px;
+}
+
+input{
+    margin-top: 50px;
+    padding: 10px;
+    width: 900px;
+    margin-left: 300px;   
+}
+
+
+.image{
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 350px;
+    gap: 10px;
+    cursor: pointer;
+   
+}
+
+.img{
+    border: solid black 2px;
+    display: inline-block;
+    width: 250px;
+    height: 330px;
+     padding: 10px;
+}
+
+.all{
+    width: 250px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+.p{
+    margin-top: 10px;
+}
+
+.container1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.con{
+    margin-top: 10px;
+}
+.lor{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
